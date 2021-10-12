@@ -1,0 +1,1 @@
+# 12-directive-kullanimi-baslangic-kodu
